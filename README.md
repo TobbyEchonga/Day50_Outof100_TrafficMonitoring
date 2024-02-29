@@ -10,7 +10,3 @@ This repository contains a Python script for monitoring traffic using computer v
    # Include dependencies like OpenCV, TensorFlow, etc.
 2. Run the application:
   python traffic_monitoring.py
-
-Customize and enhance the traffic monitoring system based on your specific requirements.
-
-Feel free to explore and enhance the Traffic Monitoring application!
